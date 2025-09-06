@@ -52,7 +52,7 @@ The system provides:
 
 ## 📂 Dataset
 
-We used the **Customer Churn Dataset** from Kaggle.
+We used the **Customer Churn Dataset** from huggingface.
 📥 [Download Dataset](https://huggingface.co/datasets/d0r1h/customer_churn/tree/main)
 
 
