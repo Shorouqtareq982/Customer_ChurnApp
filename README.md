@@ -60,7 +60,7 @@ We used the **Customer Churn Dataset** from Kaggle.
 ## 🖼️ App Screenshots
 
 ### Dashboard Example  
-![Dashboard](images/img1_churn.png)  
+![visualization](images/img1_churn.jpg)  
 
 ### Real-time Prediction  
-![Prediction](images/img2churn.png)  
+![Prediction](images/img2churn.jpg)  
