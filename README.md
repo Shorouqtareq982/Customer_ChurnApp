@@ -52,15 +52,15 @@ The system provides:
 
 ## 📂 Dataset
 
-We used the **Telco Customer Churn Dataset** from Kaggle.
+We used the ** Customer Churn Dataset** from Kaggle.
 📥 [Download Dataset](https://huggingface.co/datasets/d0r1h/customer_churn/tree/main)
 
 
 
 ## 🖼️ App Screenshots
 
+### Dashboard Example  
+![Dashboard](images/dashboard.png)  
 
-
-
-
-Do you want me to also generate a **`requirements.txt`** file with all the dependencies your app needs so users can install it instantly?
+### Real-time Prediction  
+![Prediction](images/prediction.png)  
